@@ -7,7 +7,7 @@ library(shiny)
 #ui
 ui <- shinyUI(fluidPage(
 #add navbar and diphtongs
-  titlePanel("Mouthinator 1.1.0"),
+  titlePanel("Mouthinator 1.1.3"),
   fluidRow(
     column(2,
            wellPanel(
